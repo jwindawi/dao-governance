@@ -42,7 +42,7 @@ mUSD exposition is:
 
 If we break down Save APY, 55% of it is coming from lending interest revenues on Aave & Compound, 22.5% from our AMM swap fees & the remaining 22.5% from platform rewards liquidation. It would mean that 25% of Save yield is independent of lending protocol and their inherent risk. Save APY is hence fully organic, market-neutral and ultra-consistent.
 
-Keeper DAO opportunity with mStable
+## Keeper DAO opportunity with mStable
 
 mStable Save is a stablecoin-agnostic savings platform for DAOs.
 Looking closely at Keeper treasury, we think such a utilization move could make sense.
@@ -51,7 +51,7 @@ Indeed, 29.3% of Keeper DAO Treasury 79m+ is composed of stablecoins. Of this 34
 
 Considering the existing healthy structure of the treasury (Stablecoins being 1/3 of the total treasury) and the re-collateralization backstop protecting the $ROOK token, the protocol could definitely explore moving a significant part of its available stablecoins
 
-Rationale & Scenario analysis
+## Rationale & Scenario analysis
 
 According to a post from october post, Keeper DAO yearly burn rate reaches $740,499 which would take a $4.93m allocation at a Hey 15% rate (mStable Save APY) to cover it fully.
 
