@@ -32,7 +32,7 @@ mStable is a decentralized stablecoin ecosystem producing sustainable yield on U
 
 The project is backed by Three Arrows Capital, DACM, DeFiance Capital & Alameda Research among others.
 
-Save APY has historically been around 15%, significantly outperforming competition (Yearn, Aave or Curve). Please check this link for more granular historic performance details (Dune 2)
+Save APY has historically been around 15%, significantly outperforming competition (Yearn, Aave or Curve). Please check this link for more granular historic performance details (Dune dashboard [here](https://dune.com/naddison/mStable-imUSD-returns))
 
 ![Image1](KIP-22image.jpg)
 
@@ -70,6 +70,8 @@ Please find below
 
 * A scenario analysis for deploying between 50% and 100% of Keeper Stablecoin Treasury into Save with the corresponding yearly return
 * The tranches version of it. 
+
+![image2](KIP-22image2.png)
 
 ## Benefits
 
