@@ -24,7 +24,7 @@ It has come to our understanding that we’re in the early days of DAO Treasury 
 
 Within this framework, we think that it is sensible to expand the use of stablecoins within DAO treasuries. Stablecoins realize the value accrued within the treasury, secure the protocol OPEX and offer long-run stability against market cycles. Beyond that, they give the opportunity to create sources of non-operating income while enabling opportunistic investment behaviours that create value for the DAO (e.g. buying the dip, token buybacks, etc.)
 
-mStable and battle-tested stablecoin utilization
+## mStable and Battle-Tested Stablecoin Utilization
 
 Making stablecoins an integral part of a DAO’s diversification strategy will enable a path towards the DAO’s long-run sustainability but it requires adequate tooling.
 
@@ -36,7 +36,7 @@ Save APY has historically been around 15%, significantly outperforming competiti
 
 ![Image1](KIP-22image.jpg)
 
-## About Save strategy
+## About Save Strategy
 
 mStable deposits 98% of mUSD’s underlying assets to established lending markets to earn a base interest rate. This rate is then further increased by distributing mStable Swap fees and liquidating external protocol incentives.
 
@@ -47,7 +47,7 @@ mUSD exposition is:
 
 If we break down Save APY, 55% of it is coming from lending interest revenues on Aave & Compound, 22.5% from our AMM swap fees & the remaining 22.5% from platform rewards liquidation. It would mean that 25% of Save yield is independent of lending protocol and their inherent risk. Save APY is hence fully organic, market-neutral and ultra-consistent.
 
-## Keeper DAO opportunity with mStable
+## Keeper DAO Opportunity with mStable
 
 mStable Save is a stablecoin-agnostic savings platform for DAOs.
 Looking closely at Keeper treasury, we think such a utilization move could make sense.
