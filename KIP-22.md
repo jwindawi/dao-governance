@@ -1,10 +1,14 @@
-Introduction
+# Treasury Utilization Opportunity into mStable Save
 
-Hey Keeper DAO community
-
-I’m Théo from mStable. mStable is a Decentralized Stablecoins Ecosystem, designed to produce sustainable yield on USD.
-
-A couple of weeks ago, we initiated with @hazard & @DaddyMatty a discussion about Keeper DAO Treasury which led to me coming to you today with a diversification/utilization idea for a portion of the treasury stablecoin currently sitting idle in the treasury
+```
+kip: 22
+title: Treasury Utilization Opportunity into mStable Save
+author: loth.eth of mStable
+status: submitted
+tags: none
+created: 2022-02-15
+replaced-by: none
+replaces: none
 
 ## Context
 
@@ -51,7 +55,7 @@ Indeed, 29.3% of Keeper DAO Treasury 79m+ is composed of stablecoins. Of this 34
 
 Considering the existing healthy structure of the treasury (Stablecoins being 1/3 of the total treasury) and the re-collateralization backstop protecting the $ROOK token, the protocol could definitely explore moving a significant part of its available stablecoins
 
-## Rationale & Scenario analysis
+## Rationale & Scenario Analysis
 
 According to a post from october post, Keeper DAO yearly burn rate reaches $740,499 which would take a $4.93m allocation at a Hey 15% rate (mStable Save APY) to cover it fully.
 
@@ -59,7 +63,12 @@ Keeper DAO could think about then allocating between 50% and 80% of these 5.6m t
 
 To get started, we recommend that KeeperDAO deposit funds in tranches of $500,000 on a quarterly basis for a period of the community’s choosing. Using current data, this would result in an estimated annual yield of $210,595 if done for a full year.
 
-With 4 tranches of 500k over a year, the treasury would increase its treasury by $210,595 over a year which would be an 11% marginal rate (Save proceeds are automatically compounded
+With 4 tranches of 500k over a year, the treasury would increase its treasury by $210,595 over a year which would be an 11% marginal rate (Save proceeds are automatically compoundeded). 
+
+Please find below
+
+* A scenario analysis for deploying between 50% and 100% of Keeper Stablecoin Treasury into Save with the corresponding yearly return
+* The tranches version of it. 
 
 ## Benefits
 
