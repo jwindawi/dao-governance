@@ -37,8 +37,8 @@ mStable deposits 98% of mUSD’s underlying assets to established lending market
 
 mUSD exposition is:
 
-    51% to Aave
-    49% to Compound
+   * 51% to Aave
+   * 49% to Compound
 
 If we break down Save APY, 55% of it is coming from lending interest revenues on Aave & Compound, 22.5% from our AMM swap fees & the remaining 22.5% from platform rewards liquidation. It would mean that 25% of Save yield is independent of lending protocol and their inherent risk. Save APY is hence fully organic, market-neutral and ultra-consistent.
 
@@ -67,12 +67,12 @@ Basically, with the aforementioned amount deposited into Save, Keeper DAO could 
 
 More generally, benefits would be:
 
-    Passive management of treasury
-    Consistently strong APY
-    Long-term protocol value growth
-    Trustless contract
-    Non-operating revenue stream
-    Seamless treasury management
+* Passive management of treasury
+* Consistently strong APY
+* Long-term protocol value growth
+* Trustless contract
+* Non-operating revenue stream
+* Seamless treasury management
 
 ## Closing thoughts
 
