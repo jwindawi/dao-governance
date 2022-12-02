@@ -2,7 +2,9 @@
 
 This repository captures both my academic research into protocol-centric governance as well as the ways I put that research into practice as the Governance lead for Rook DAO. 
 
+Academic research: 
 
+[Paper on polycentric dimensions of protocol governance](https://github.com/jwindawi/governance/blob/main/windawi_governance_paper.pdf)
 
 
 Some work samples from Rook: 
