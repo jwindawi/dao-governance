@@ -13,7 +13,7 @@ My initial approach to blockchain governance was through my dissertation researc
 [Dissertation](https://github.com/jwindawi/dissertation/blob/main/Windawi_proquest.pdf)
 
 
-### Some work samples from Rook: 
+### DAO practice 
 
 [On the protocol and the DAO co-creating public goods](https://web.archive.org/web/20221202185030/https://www.notion.so/rook-labs/Governance-19f4b270e4b44648ae0671f8a964dda6?p=74a458dcd7204bb29e105897527b24e4&pm=s)
 
