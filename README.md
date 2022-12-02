@@ -2,11 +2,15 @@
 
 This repository captures both my academic research into protocol-centric governance as well as the ways I put that research into practice as the Governance lead for Rook DAO. 
 
-### Academic research: 
+### Academic research
+
+My initial approach to blockchain governance was through my dissertation research. That project
 
 [Paper on polycentric dimensions of protocol governance](https://github.com/jwindawi/governance/blob/main/windawi_governance_paper.pdf)
 
 [On blockchains as blending private and public goods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4152068) (with J. Grimmelmann)
+
+[Dissertation](https://github.com/jwindawi/dissertation/blob/main/Windawi_proquest.pdf)
 
 
 ### Some work samples from Rook: 
