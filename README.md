@@ -5,6 +5,7 @@ This repository captures both my academic research into protocol-centric governa
 ### Academic research: 
 
 [Paper on polycentric dimensions of protocol governance](https://github.com/jwindawi/governance/blob/main/windawi_governance_paper.pdf)
+
 [On blockchains as blending private and public goods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4152068) (with J. Grimmelmann)
 
 
