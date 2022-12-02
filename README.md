@@ -1,4 +1,4 @@
-# Governance Research and Samples
+# Governance Research and Samples [DRAFT]
 
 This repository captures both my academic research into protocol-centric governance as well as the ways I put that research into practice as the Governance lead for Rook DAO. 
 
