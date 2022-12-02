@@ -8,7 +8,7 @@ My initial approach to blockchain governance was through my dissertation researc
 
 [Paper on polycentric dimensions of protocol governance](https://github.com/jwindawi/governance/blob/main/windawi_governance_paper.pdf)
 
-    [Paper talk at UBC](https://www.youtube.com/watch?v=zSz3qd5sH88)
+>[Paper talk at UBC](https://www.youtube.com/watch?v=zSz3qd5sH88)
 
 [On blockchains as blending private and public goods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4152068) (with J. Grimmelmann)
 
