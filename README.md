@@ -6,7 +6,7 @@ This repository captures both my academic research into protocol-centric governa
 
 My initial approach to blockchain governance was through my dissertation research. That project (completed 2021) examined blokchain as a potential form of general purpose technology, and asked how such a technology first diffuses in its early stages. I answered this broad question by focusing on the social organization of individual projects, and more specifically on the blend of organizational structure, governance and applications of the technology.  
 
-[Dissertation paper on polycentric dimensions of protocol governance](https://github.com/jwindawi/governance/blob/main/windawi_governance_paper.pdf)
+[Dissertation paper on blockchain protocol governance](https://github.com/jwindawi/governance/blob/main/windawi_governance_paper.pdf)
 
 >[Paper talk at UBC](https://www.youtube.com/watch?v=zSz3qd5sH88)
 
