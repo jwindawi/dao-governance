@@ -10,7 +10,7 @@ My initial approach to blockchain governance was through my dissertation researc
 
 >[Paper talk at UBC](https://www.youtube.com/watch?v=zSz3qd5sH88)
 
-[On blockchains as blending private and public goods](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4152068) (with J. Grimmelmann)
+[Blockchains as infrastructure and semicommons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4152068) (Forthcoming in Wm. & Mary Law Review, with J. Grimmelmann)
 
 [Dissertation](https://github.com/jwindawi/dissertation/blob/main/Windawi_proquest.pdf)
 
