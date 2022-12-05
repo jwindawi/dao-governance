@@ -20,7 +20,8 @@ My initial approach to blockchain governance was through my dissertation researc
 
 *Governance process* 
 
-[Ratified proposal to establish governance weights](https://github.com/jwindawi/governance/blob/main/KIP-32%20Voting%20Participation%20and%20Weights%20-%20KIPs%20_%20Final%20-%20Rook.pdf)
+[Proposal to establish governance weights](https://github.com/jwindawi/governance/blob/main/KIP-32%20Voting%20Participation%20and%20Weights%20-%20KIPs%20_%20Final%20-%20Rook.pdf)
+> [Supporting survey](https://github.com/jwindawi/dao-governance/blob/main/ROOK%20vs.%20xROOK%20token%20voting%20weights%20-%20Governance%20Process%20-%20Rook.pdf)
 
 [Guide for authoring proposals](https://github.com/jwindawi/governance/blob/main/Writing%20a%20KIP%20for%20Rook%20Governance%20-%20KIPs%20_%20Admin%20-%20Rook.pdf)
 
