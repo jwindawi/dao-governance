@@ -25,6 +25,7 @@ My initial approach to blockchain governance was through my dissertation researc
 
 [Guide for authoring proposals](https://github.com/jwindawi/governance/blob/main/Writing%20a%20KIP%20for%20Rook%20Governance%20-%20KIPs%20_%20Admin%20-%20Rook.pdf)
 
+[Proposal tracking page](https://www.notion.so/rook-labs/KIP-Proposal-History-and-Status-0b74047c889448f59a5f1ae8e2a88e8b)
 
 *Thought leadership*
 
