@@ -41,9 +41,8 @@ As Governance Lead at Rook DAO, I have pursued two missions: stewarding the curr
 
 [Toward governance-oriented tokenomics](https://github.com/jwindawi/governance/blob/main/Governance_with_the_new_tokenomics_a_way_forward_discussion_draft.pdf)
 
-Workshop on voting edge-case scenarios
+[Recording: workshop on voting edge-case scenarios](https://www.youtube.com/watch?v=9dhexBokJxA)
 > [Miro board](https://miro.com/app/board/uXjVOeaK95c=/?share_link_id=684179631142)
-> [Recording](https://www.youtube.com/watch?v=9dhexBokJxA)
 
 *Thought leadership*
 
