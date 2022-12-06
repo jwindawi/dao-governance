@@ -26,7 +26,7 @@ This background provided a platform for my more recent work for Rook DAO, where 
 
 ### DAO practice 
 
-As Governance Lead at Rook DAO, I have pursued two missions: developing research-driven improvements to the process while stewarding the current governance process. 
+As Governance Lead at Rook DAO, I have pursued two missions: developing research-driven improvements to the process while stewarding the current governance process. Whaat follows are work samples from each of these aspects of my work for Rook. 
 
 *Process improvements* 
 
