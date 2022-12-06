@@ -26,13 +26,7 @@ This background provided a platform for my more recent work for Rook DAO, where 
 
 ### DAO practice 
 
-As Governance Lead at Rook DAO, I have pursued two missions: stewarding the current governance process and developing improvements to the process. 
-
-*Stewardship* 
-
-[Guide for authoring proposals, with templates](https://github.com/jwindawi/governance/blob/main/Writing%20a%20KIP%20for%20Rook%20Governance%20-%20KIPs%20_%20Admin%20-%20Rook.pdf)
-
-[Proposal status tracker](https://www.notion.so/rook-labs/KIP-Proposal-History-and-Status-0b74047c889448f59a5f1ae8e2a88e8b)
+As Governance Lead at Rook DAO, I have pursued two missions: developing research-driven improvements to the process while stewarding the current governance process. 
 
 *Process improvements* 
 
@@ -45,6 +39,12 @@ As Governance Lead at Rook DAO, I have pursued two missions: stewarding the curr
 
 [Recording: workshop on voting edge-case scenarios](https://www.youtube.com/watch?v=9dhexBokJxA)
 > [Miro board](https://miro.com/app/board/uXjVOeaK95c=/?share_link_id=684179631142)
+
+*Stewardship* 
+
+[Guide for authoring proposals, with templates](https://github.com/jwindawi/governance/blob/main/Writing%20a%20KIP%20for%20Rook%20Governance%20-%20KIPs%20_%20Admin%20-%20Rook.pdf)
+
+[Proposal status tracker](https://www.notion.so/rook-labs/KIP-Proposal-History-and-Status-0b74047c889448f59a5f1ae8e2a88e8b)
 
 *Thought leadership*
 
