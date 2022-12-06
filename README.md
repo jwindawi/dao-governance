@@ -2,9 +2,11 @@
 
 This repository captures both my academic research into protocol-centric governance as well as the ways I put that research into practice as the Governance Lead for Rook DAO. 
 
-### Academic research
+### Research
 
-My initial approach to blockchain governance was through my dissertation research. That project (completed 2021) examined blokchain as a potential form of general purpose technology, and asked how such a technology first diffuses in its early stages. I answered this broad question by focusing on the social organization of individual projects, and more specifically on the technology's implications for organizational structure and governance.  
+My initial approach to blockchain governance was through my dissertation research. That project (completed 2021) examined blokchain as a potential form of general purpose technology, and asked how such a technology diffuses in its early stages. I answered this broad question by focusing on the social organization of individual projects, and more specifically on the technology's implications for organizational structure and governance.  
+
+*Academic research* 
 
 [Dissertation paper on blockchain protocol governance](https://github.com/jwindawi/governance/blob/main/windawi_governance_paper.pdf)
 
@@ -14,6 +16,11 @@ My initial approach to blockchain governance was through my dissertation researc
 
 [Full dissertation](https://github.com/jwindawi/dissertation/blob/main/Windawi_proquest.pdf)
 
+*Applied research* 
+
+[Participant research: Sophon survey](https://web.archive.org/web/20221202203032/https://forum.rook.fi/t/hearing-from-the-sophons-poll-results/420)
+
+[User research: voting patterns](https://web.archive.org/web/20221202203136/https://forum.rook.fi/t/a-quick-analysis-of-kip-voting-history/366)
 
 ### DAO practice 
 
@@ -34,8 +41,3 @@ My initial approach to blockchain governance was through my dissertation researc
 
 [Toward governance-oriented tokenomics](https://github.com/jwindawi/governance/blob/main/Governance_with_the_new_tokenomics_a_way_forward_discussion_draft.pdf)
 
-*Research*
-
-[Participant research: Sophon survey](https://web.archive.org/web/20221202203032/https://forum.rook.fi/t/hearing-from-the-sophons-poll-results/420)
-
-[User research: voting patterns](https://web.archive.org/web/20221202203136/https://forum.rook.fi/t/a-quick-analysis-of-kip-voting-history/366)
