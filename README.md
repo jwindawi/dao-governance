@@ -6,6 +6,8 @@ This repository captures both my academic research into protocol-centric governa
 
 My initial approach to blockchain governance was through my dissertation research. That project (completed 2021) examined blokchain as a potential form of general purpose technology, and asked how such a technology diffuses in its early stages. I answered this broad question by focusing on the social organization of individual projects, and more specifically on the technology's implications for organizational structure and governance.  
 
+This background provided a platform for my more recent work for Rook DAO, where I have used a combination of desk research as well as user and participant research as core inputs into refining the governance process. 
+
 *Academic research* 
 
 [Dissertation paper on blockchain protocol governance](https://github.com/jwindawi/governance/blob/main/windawi_governance_paper.pdf)
@@ -18,7 +20,7 @@ My initial approach to blockchain governance was through my dissertation researc
 
 *Applied research* 
 
-[Participant research: Sophon survey](https://web.archive.org/web/20221202203032/https://forum.rook.fi/t/hearing-from-the-sophons-poll-results/420)
+[Participant research: Sophon (delegate) survey](https://web.archive.org/web/20221202203032/https://forum.rook.fi/t/hearing-from-the-sophons-poll-results/420)
 
 [User research: voting patterns](https://web.archive.org/web/20221202203136/https://forum.rook.fi/t/a-quick-analysis-of-kip-voting-history/366)
 
