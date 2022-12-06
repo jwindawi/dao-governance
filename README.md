@@ -20,26 +20,33 @@ This background provided a platform for my more recent work for Rook DAO, where 
 
 *Applied research* 
 
-[Participant research: Sophon (delegate) survey](https://web.archive.org/web/20221202203032/https://forum.rook.fi/t/hearing-from-the-sophons-poll-results/420)
-
 [User research: voting patterns](https://web.archive.org/web/20221202203136/https://forum.rook.fi/t/a-quick-analysis-of-kip-voting-history/366)
+
+[Participant research: Sophon (delegate) survey](https://web.archive.org/web/20221202203032/https://forum.rook.fi/t/hearing-from-the-sophons-poll-results/420)
 
 ### DAO practice 
 
+As Governance Lead at Rook DAO, I have pursued two missions: stewarding the current governance process and developing improvements to the process. 
 
-*Governance process* 
+*Stewardship* 
+
+[Guide for authoring proposals](https://github.com/jwindawi/governance/blob/main/Writing%20a%20KIP%20for%20Rook%20Governance%20-%20KIPs%20_%20Admin%20-%20Rook.pdf)
+
+*Process improvements* 
 
 [Proposal to update core process](https://www.notion.so/rook-labs/KIP-Proposal-History-and-Status-0b74047c889448f59a5f1ae8e2a88e8b)
 
 [Proposal to establish governance weights](https://github.com/jwindawi/governance/blob/main/KIP-32%20Voting%20Participation%20and%20Weights%20-%20KIPs%20_%20Final%20-%20Rook.pdf)
-> [Supporting survey](https://github.com/jwindawi/dao-governance/blob/main/ROOK%20vs.%20xROOK%20token%20voting%20weights%20-%20Governance%20Process%20-%20Rook.pdf)
+> [Supporting poll](https://github.com/jwindawi/dao-governance/blob/main/ROOK%20vs.%20xROOK%20token%20voting%20weights%20-%20Governance%20Process%20-%20Rook.pdf)
 
-[Guide for authoring proposals](https://github.com/jwindawi/governance/blob/main/Writing%20a%20KIP%20for%20Rook%20Governance%20-%20KIPs%20_%20Admin%20-%20Rook.pdf)
+[Toward governance-oriented tokenomics](https://github.com/jwindawi/governance/blob/main/Governance_with_the_new_tokenomics_a_way_forward_discussion_draft.pdf)
 
+Workshop on voting edge-case scenarios
+> [Miro board](https://miro.com/app/board/uXjVOeaK95c=/?share_link_id=684179631142)
+> [Recording](https://www.youtube.com/watch?v=9dhexBokJxA)
 
 *Thought leadership*
 
 [On the protocol and the DAO co-creating public goods](https://web.archive.org/web/20221202185030/https://www.notion.so/rook-labs/Governance-19f4b270e4b44648ae0671f8a964dda6?p=74a458dcd7204bb29e105897527b24e4&pm=s)
 
-[Toward governance-oriented tokenomics](https://github.com/jwindawi/governance/blob/main/Governance_with_the_new_tokenomics_a_way_forward_discussion_draft.pdf)
 
