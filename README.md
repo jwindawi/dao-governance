@@ -42,7 +42,7 @@ As Governance Lead at Rook DAO, I have pursued two missions: developing research
 
 *Stewardship* 
 
-Work sites: [Forum](https://forum.rook.fi/c/for-ideas-and-discussion-around-rooks-governance-process/54) [Github](https://github.com/rookprotocol/kips) [Snapshot](https://snapshot.org/#/rook.eth)
+Work sites: [Forum](https://forum.rook.fi/c/for-ideas-and-discussion-around-rooks-governance-process/54), [Github](https://github.com/rookprotocol/kips), [Snapshot](https://snapshot.org/#/rook.eth)
 
 [Guide for authoring proposals, with templates](https://github.com/jwindawi/governance/blob/main/Writing%20a%20KIP%20for%20Rook%20Governance%20-%20KIPs%20_%20Admin%20-%20Rook.pdf)
 
