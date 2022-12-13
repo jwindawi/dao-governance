@@ -26,7 +26,7 @@ This background provided a platform for my more recent work for Rook DAO, where 
 
 ### DAO practice 
 
-As Governance Lead at Rook DAO, I have pursued two missions: developing research-driven improvements to the process while stewarding the current governance process. Whaat follows are work samples from each of these aspects of my work for Rook. 
+As Governance Lead at Rook DAO, I have pursued two missions: developing research-driven improvements to the process while stewarding the current governance process. What follows are work samples from each of these aspects of my work for Rook. 
 
 *Process improvements* 
 
@@ -41,6 +41,8 @@ As Governance Lead at Rook DAO, I have pursued two missions: developing research
 > [Miro board](https://miro.com/app/board/uXjVOeaK95c=/?share_link_id=684179631142)
 
 *Stewardship* 
+
+Work sites: [Forum](https://forum.rook.fi/c/for-ideas-and-discussion-around-rooks-governance-process/54) [Github](https://github.com/rookprotocol/kips) [Snapshot](https://snapshot.org/#/rook.eth)
 
 [Guide for authoring proposals, with templates](https://github.com/jwindawi/governance/blob/main/Writing%20a%20KIP%20for%20Rook%20Governance%20-%20KIPs%20_%20Admin%20-%20Rook.pdf)
 
