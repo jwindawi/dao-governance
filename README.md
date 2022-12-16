@@ -4,7 +4,7 @@ This repository captures both my academic research into protocol-centric governa
 
 ### Research
 
-My initial approach to blockchain governance was through my dissertation research. That project (completed 2021) examined blokchain as a potential form of general purpose technology, and asked how such a technology diffuses in its early stages. I answered this broad question by focusing on the social organization of individual projects, and more specifically on the technology's implications for organizational structure and governance.  
+My initial approach to blockchain governance was through my dissertation research. That project (completed 2021) examined blockchain as a potential form of general purpose technology, and asked how such a technology diffuses in its early stages. I answered this broad question by focusing on the social organization of individual projects, and more specifically on the technology's implications for organizational structure and governance.  
 
 This background provided a platform for my more recent work for Rook DAO, where I have used a combination of desk research as well as user and participant research as core inputs into refining the governance process. 
 
