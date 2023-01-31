@@ -50,6 +50,6 @@ Work sites: [Forum](https://forum.rook.fi/c/for-ideas-and-discussion-around-rook
 
 *Thought leadership*
 
-[On the protocol and the DAO co-creating public goods](https://web.archive.org/web/20221202185030/https://www.notion.so/rook-labs/Governance-19f4b270e4b44648ae0671f8a964dda6?p=74a458dcd7204bb29e105897527b24e4&pm=s)
+[On the protocol and the DAO co-creating public goods](https://github.com/jwindawi/dao-governance/blob/main/Rook_and_public_goods.pdf)
 
 
